@@ -1,0 +1,4 @@
+node_modules/
+.env
+credenciales-google.json
+auth/
